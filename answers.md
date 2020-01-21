@@ -84,8 +84,6 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 12. Yes, online changes are reflected in my local copy after issuing the "git pull" command.
 
-13. 
-
-14. 
+13. .  ..  .git  .gitignore  README.md
 
 
